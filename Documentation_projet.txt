@@ -1,0 +1,21 @@
+Projet fermeture et ouverture crépusculaire automatique d'un poulailler.
+
+	Ici le but est de créer un système pour ouvrir ou fermer une trappe installer dans un poulailler. Nous devons donc coder (ici) un carte Arduino.
+	Le but est que la trappe se ferme quand il fait nuit et s'ouvre quand il fait jour.
+
+
+Matériel:
+
+	Comme matériel utilisé nous avons:
+	Arduino UNO.
+	Carte L298N (pour contrôler le moteur).
+	Une photorésistance.
+	Bouton poussoir.
+	Résistance 220 ohm.
+	Un moteur 12V.
+	Une alimentation 12V.
+	Câbles.
+
+	Apres ça c'est le matériel pour le système de trappe poulie et tout.
+	C'est vous qui voyez.
+
