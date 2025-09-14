@@ -21,4 +21,6 @@ Matériel:
 
 
 Code:
-	Dans mon code le moteur est contrôlé par les broches in1 et in2 (carte L298N). Par endroit in1 est activé mais pas in2, inversement aussi, ou même 0/1 	pour les deux. Cela est le cas car ça donne le sens de rotation pour le moteur. Qui dépend aussi de votre code et branchement. Quand un des deux in 	est égale a 1 et l'autre 0 le moteur tourne dans un sens ou l'autre. Si in1 et in2 sont égale à 0 ou 1 le moteur est a l'arrêt.
+	Dans mon code le moteur est contrôlé par les broches in1 et in2 (carte L298N).  
+	Quand un des deux in est égale a 1 et l'autre 0 le moteur tourne dans un sens ou l'autre. 
+	Si in1 et in2 sont tout deux au même état (1 ou 0) le moteur est a l'arrêt.
