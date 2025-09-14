@@ -7,6 +7,7 @@
 int up = 1;
 int down = 0;
 
+
 void setup() {
   Serial.begin (9600);
   pinMode(sunlight, INPUT);
